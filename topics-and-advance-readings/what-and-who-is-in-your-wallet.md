@@ -4,7 +4,7 @@
 
 Darrell O'Donnell, P.Eng. 
 
-darrell.lodonnell@continuumloop.com
+darrell.odonnell@continuumloop.com
 
 # Background
 
